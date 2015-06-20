@@ -8,7 +8,7 @@
 @synthesize shareURL = _shareURL;
 @synthesize twitterString = _twitterString;
 
-@synthesize URL = _URL; // facebook only allowes one URL and a image, URL must be NSURL
+@synthesize URL = _URL; // facebook only allowes one URL and a image, URL must be NSURL testje
 
 
 - (id)initWithPlaceholderItem:(id)placeholderItem

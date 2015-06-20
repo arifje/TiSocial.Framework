@@ -12,20 +12,24 @@
 	<dict>
 		<key>92A904948F96E190AC535D2917B454E3B04951D8</key>
 		<string>github.com:joseandro/TiSocial.Framework.git</string>
+		<key>D66503207A78994CC493E27C5108772630C5CEB3</key>
+		<string>https://github.com/skoften/TiSocial.Framework.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>social.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>92A904948F96E190AC535D2917B454E3B04951D8</key>
+		<string>../../../TiSocial.Framework</string>
+		<key>D66503207A78994CC493E27C5108772630C5CEB3</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>github.com:joseandro/TiSocial.Framework.git</string>
+	<string>https://github.com/skoften/TiSocial.Framework.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>92A904948F96E190AC535D2917B454E3B04951D8</string>
+	<string>D66503207A78994CC493E27C5108772630C5CEB3</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>92A904948F96E190AC535D2917B454E3B04951D8</string>
 			<key>IDESourceControlWCCName</key>
 			<string>TiSocial.Framework</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D66503207A78994CC493E27C5108772630C5CEB3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TiSocial.Framework-master</string>
 		</dict>
 	</array>
 </dict>
